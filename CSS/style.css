@@ -3,3 +3,11 @@
   padding: 0px;
   margin: 0px;
 }
+.carousel-item {
+  height: 500px;
+}
+.border-5 {
+  border: 1px solid black !important;
+  border-radius: 5px;
+  padding-left: 0px;
+}
