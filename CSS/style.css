@@ -6,6 +6,18 @@
 .carousel-item {
   height: 89vh;
 }
+.carousel-item > img {
+  min-height: 330px;
+}
+.carousel-item > .carousel-caption {
+  min-height: 130px;
+}
+.cover-img {
+  filter: brightness(50%);
+}
+.slider-caption {
+  height: 50vh;
+}
 .border-5 {
   border: 1px solid black !important;
   border-radius: 5px;
