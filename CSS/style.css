@@ -7,10 +7,10 @@
   height: 89vh;
 }
 .carousel-item > img {
-  min-height: 330px;
+  min-height: 300px;
 }
-.carousel-item > .carousel-caption {
-  min-height: 130px;
+.carousel-item > .slider-caption {
+  min-height: 100px;
 }
 .cover-img {
   filter: brightness(50%);
