@@ -14,3 +14,15 @@
 .learning-bg {
   background-color: rgb(222, 248, 255);
 }
+.footer-bg {
+  background-color: rgb(43, 48, 53);
+}
+.footer-bg > p {
+  margin-bottom: 0px;
+}
+.footer-policy > a {
+  text-decoration: none;
+}
+.footer > .icons > a {
+  text-decoration: none;
+}
