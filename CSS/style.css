@@ -29,6 +29,9 @@
 .register {
   background-color: rgb(222, 248, 255);
 }
+.review > p {
+  padding: 0px 120px;
+}
 .footer-bg {
   background-color: rgb(43, 48, 53);
 }
